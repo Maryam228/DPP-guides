@@ -18,7 +18,7 @@
 - دليل اللجنة الدولية للصليب الأحمر [لحماية البيانات في العمل الإنساني](https://www.icrc.org/en/data-protection-humanitarian-action-handbook) وهو دليل مفصل لكل جانب من جوانب البيانات الإنسانية تقريباُ.
 - [دليل بيانات الاتحاد الدولي لجمعيات الصليب الأحمر والهلال الأحمر](https://preparecenter.org/toolkit/data-playbook-toolkit/) هي مورد ممتاز للتمارين وخطط الجلسات وقوائم المراجعة والمواد الأخرى لمساعدتك على تنظيم المحادثات والأنشطة مع فريقك لتطوير أنشطة البيانات المسؤولة.
 -  [البرنامج التعليمي عبر الإنترنت لمركز البيانات الإنسانية لعمل تقييم لمخاطر الإفصاح](https://centre.humdata.org/learning-path/disclosure-risk-assessment-overview/) هو مورد تقني محدد للغاية، ولكنه مورد لا غنى عنه لتقليل مخاطر استخدام البيانات لتعريف الأفراد.
--   دليل Engine Room [الاختصاصي التنمية الحديثة نظرة عامة جيدة للبيانات في سياق أنشطة](https://the-engine-room.github.io/responsible-data-handbook/) التنمية الدولية.
+-   [دليل Engine Room](https://the-engine-room.github.io/responsible-data-handbook/) الاختصاصي التنمية الحديثة نظرة عامة جيدة للبيانات في سياق أنشطة التنمية الدولية.
 
 ## الاتصال والمساهمات
 يتم صيانة هذا المستودع من قبل فريق حماية البيانات والخصوصية في ميرسي كور وهو جزء من العمل لتوسيع [مجموعة أدوات البيانات المسؤولة](https://www.mercycorps.org/research-resources/responsible-data-toolkit). يمكنك إرسال تحديثات أو إضافات لهذه المادة عبر طلب سحب Github ([اقرأ عن طلبات السحب هنا](https://docs.github.com/es/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/about-merge-methods-on-github)) أو عن طريق الاتصال بنا على dataprotection@mercycorps.org
