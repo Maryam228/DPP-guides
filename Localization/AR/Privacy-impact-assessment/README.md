@@ -18,7 +18,8 @@
 - التأكد من أن المنظمة تعزز الحق في الخصوصية في أنشطتها الإنسانية وتعمل كمسؤول أخلاقي للبيانات.
 
 ## الإرشاد
- يمكن لموظفي ميرسي كور العثور على [إرشادات PIA في المكتبة الرقمية](https://library.mercycorps.org/record/39050). تحتوي الوثيقة على إجابات للأسئلة المتداولة ذات الصلة بـ بتقييمات تأثير الخصوصية، وروابط لأرشيف ميرسي كور الداخلي لـتقييمات تأثير الخصوصية المكتملة للمقارنة. دليل تقييم تأثير الخصوصية الخاص بميرسي كور متاح للجميع باللغات التالية: [الإنجليزية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance.pdf) و[العربية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-AR.pdf) و[الأسبانية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-ES.pdf) و[الفرنسية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-FR.pdf) و[الروسية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-RU.pdf) و[البولندية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidancePL.pdf)، و[الأوكرانية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidanceUA.pdf).
+ يمكن لموظفي ميرسي كور العثور على [إرشادات PIA في المكتبة الرقمية](https://library.mercycorps.org/record/39044?ln=en). تحتوي الوثيقة على إجابات للأسئلة المتداولة ذات الصلة بـ بتقييمات تأثير الخصوصية، وروابط لأرشيف ميرسي كور الداخلي لـتقييمات تأثير الخصوصية المكتملة للمقارنة. دليل تقييم تأثير الخصوصية الخاص بميرسي كور متاح ألي شخص باللغات التالية: [الإنجليزي](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance.pdf) و [العربية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-AR.pdf) و [الأسبانية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-ES.pdf) و [الفرنسية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-FR.pdf) و [الروسية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-RU.pdf) و [البولندية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidancePL.pdf)، و [الأوكرانية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidanceUA.pdf).
+
 
  تذكر أن:
 - تقييم تأثير الخصوصية هو معالجة تُستخدم لتحديد وتقليل مخاطر الخصوصية. إكمال نموذج تقييم تأثير الخصوصية ليس نهاية المطاف! قم بمراجعة تقييم تأثير الخصوصية (PIA) مرة أخرى بعدما يبدأ مشروعك للتأكد من عدم وجود تغييرات جديدة تؤدي إلى مخاطر جديدة. وإذا كان هناك أي مخاطر جديدة، قم بعمل التغييرات واستراتيجيات التخفيف الجديدة اللازمة لتقليل أي مخاطر جديدة.
@@ -29,7 +30,10 @@
 - قد يكون من المفيد مقارنة تقييمات تأثير الخصوصية لبرامج مماثلة. ويمكنك إجراء هذا البحث بنفسك، أو التواصل مع فريق حماية البيانات والخصوصية للحصول على المساعدة.
 
 ## النماذج
-يمكن لموظفي ميرسي كور العثور على النموذج المُطوّل [لتقييم تأثير الخصوصية في المكتبة الرقمية](https://library.mercycorps.org/record/39045). كما أن نموذج تقييم تأثير الخصوصية المُطوّل متاح لأي شخص باللغات التالية: [الإنجليزية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA.docx) و[العربية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-AR.docx) و[الأسبانية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-ES.docx) و[الفرنسية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-FR.docx) و[الروسية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-RS.docx)  و[البولندية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-PL.docx)، و[الأوكرانية](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-UA.docx).
+ 
+ يمكن لموظفي ميرسي كور العثور على النموذج المُطوّل [للتقييم تأثير الخصوصية في المكتبة الرقمية](https://library.mercycorps.org/record/39044?ln=en). كما أن نموذج تقييم تأثير الخصوصية المُطوّل متاح لأي شخص باللغات التالية: [الإنجليزي](https://library.mercycorps.org/record/34316?ln=en) و [العربية](https://library.mercycorps.org/record/39044?ln=en) و [الأسبانية](https://library.mercycorps.org/record/39045?ln=en) و [الفرنسية](https://library.mercycorps.org/record/39046?ln=en) و [الروسية](https://library.mercycorps.org/record/39047?ln=en)  و [البولندية](https://library.mercycorps.org/record/39593?ln=en)، و [الأوكرانية](https://library.mercycorps.org/record/39594?ln=en).
+
+
 
 ويتضمن كل نموذج مُطوّل من نماذج تقييم تأثير الخصوصية خمس حالات استخدام، موضحة أدناه. ينقلك النقر فوق الروابط أدناه إلى شاشة يمكن لأي شخص منها تنزيل الإصدارات الإنجليزية لحالات الاستخدام الفردية بتنسيق **odt.** (متوافق مع مايكروسوفت وورد، والتطبيقات مفتوحة المصدر مثل OpenOffice و LibreOffice) وذلك من خلال النقر فوق زر **مشاهدة أو تحميل**.
 -  سياسة [جديدة](PIA-templates/PIA-New-Policy-open.odt)
